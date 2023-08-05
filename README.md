@@ -28,3 +28,5 @@ I'm majoring in software at Soongsil University.
 <!--4-->
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+
+![juns1s's GitHub stats](https://github-readme-stats.vercel.app/api?username=juns1s&show_icons=true&theme=dark)
